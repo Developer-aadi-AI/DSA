@@ -8,5 +8,5 @@ class Solution:
                 right = (2*n - 2) - j
                 bottom = (2*n - 2) - i
 
-                print(n - min(min(top, bottom), min(left, right)), end = ' ')
+                print(n - min(top, bottom, left, right), end = ' ')
             print()
