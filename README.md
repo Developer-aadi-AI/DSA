@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1267-count-servers-that-communicate](https://github.com/Developer-aadi-AI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Developer-aadi-AI/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Developer-aadi-AI/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Developer-aadi-AI/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
