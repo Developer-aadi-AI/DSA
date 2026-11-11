@@ -5,8 +5,8 @@ class Solution:
         for i in nums:
             if i == 1:
                 foundone += 1
-                max1 = max(foundone, max1)
             else:
+                max1 = max(foundone, max1)
                 foundone = 0
 
-        return max1
+        return max(foundone, max1)
