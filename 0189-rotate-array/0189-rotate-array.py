@@ -17,5 +17,5 @@ class Solution:
         #         nums[0:0] = rotated
             
         n = len(nums)
-        k = k%n
+        k %= n
         nums[:] = nums[n - k : ] + nums[ : n - k]   
