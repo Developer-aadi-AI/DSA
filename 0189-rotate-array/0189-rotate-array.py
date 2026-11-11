@@ -7,15 +7,13 @@ class Solution:
             n = len(nums)
             if k < n:
                 rotated = nums[n - k : ]
-                for i in range(k):
-                    nums.pop()
+                del nums[n - k : ]
                 nums[0:0] = rotated
             elif k > n:
                 while k > n:
                     k -= n
                 rotated = nums[n - k : ]
-                for i in range(k):
-                    nums.pop()
+                del nums[n - k : ]
                 nums[0:0] = rotated
             
                 
