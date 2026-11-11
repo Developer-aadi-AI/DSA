@@ -4,12 +4,11 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         write = 0
-        arr = []
-        n = len(nums)
-        for i in range(n):
-            if nums[i] != 0:
-                arr.append(nums[i])
-        for i in range(n - len(arr)):
-            arr.append(0)
-        nums[:] = arr
+        for i in nums:
+            if i != 0:
+                nums[write] = i
+                write += 1
+        while write < len(nums):
+            nums[write] = 0
+            write += 1
         
