@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Developer-aadi-AI/DSA/tree/master/0485-max-consecutive-ones) |
 | [1267-count-servers-that-communicate](https://github.com/Developer-aadi-AI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Developer-aadi-AI/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
