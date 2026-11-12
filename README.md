@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Developer-aadi-AI/DSA/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
 | [2747-count-zero-request-servers](https://github.com/Developer-aadi-AI/DSA/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
 | [2747-count-zero-request-servers](https://github.com/Developer-aadi-AI/DSA/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/Developer-aadi-AI/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
@@ -101,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Developer-aadi-AI/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
