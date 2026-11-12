@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Developer-aadi-AI/DSA/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Developer-aadi-AI/DSA/tree/master/0054-spiral-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/Developer-aadi-AI/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Developer-aadi-AI/DSA/tree/master/0054-spiral-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Developer-aadi-AI/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Developer-aadi-AI/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Ordered Set
