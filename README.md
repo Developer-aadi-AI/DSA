@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Developer-aadi-AI/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Developer-aadi-AI/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Developer-aadi-AI/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Developer-aadi-AI/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Developer-aadi-AI/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Developer-aadi-AI/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0509-fibonacci-number) |
 | [3693-climbing-stairs-ii](https://github.com/Developer-aadi-AI/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
