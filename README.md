@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Developer-aadi-AI/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/Developer-aadi-AI/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Developer-aadi-AI/DSA/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Developer-aadi-AI/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
