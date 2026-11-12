@@ -1,5 +1,16 @@
 class Solution:
     def rearrangeArray(self, nums: list[int]) -> list[int]:
+        even = 0
+        odd = 1
+        res = [0] * len(nums)
+        for i in nums:
+            if i > 0:
+                res[even] = i
+                even += 2
+            else:
+                res[odd] = i
+                odd += 2
+        return res 
         # i = 0
         # j = 0
         # k = []
@@ -15,14 +26,4 @@ class Solution:
         #     j += 1
         # return k
 
-        even = 0
-        odd = 1
-        res = [0] * len(nums)
-        for i in nums:
-            if i > 0:
-                res[even] = i
-                even += 2
-            else:
-                res[odd] = i
-                odd += 2
-        return res 
+
