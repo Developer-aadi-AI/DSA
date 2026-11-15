@@ -10,13 +10,15 @@ class Solution:
                     ra.add(i)
                     ca.add(j)
         
-        for i in ra:
-            for j in range(column):
-                matrix[i][j] = 0
-
-        for i in ca:
-            for j in range(row):
-                matrix[j][i] = 0
+        for i in range(max(len(ra),len(ca))):
+            if ra:
+                a = ra.pop()
+                for j in range(column):
+                    matrix[a][j] = 0
+            if ca:
+                b = ca.pop()
+                for j in range(row):
+                    matrix[j][b] = 0
         # def fixrowzeros(r,n):
         #     for i in range(n):
         #         if matrix[r][i] != 0: 
