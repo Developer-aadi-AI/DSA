@@ -8,10 +8,22 @@
 -- )
 -- GROUP BY player_id;
 
-SELECT round(count(player_id) * 1.0/ (select count(distinct player_id) from Activity),2) as fraction
-FROM Activity a
-WHERE event_date = (
-    SELECT DATE_ADD(MIN(event_date), INTERVAL 1 DAY)
-    FROM Activity b
-    WHERE a.player_id = b.player_id
-);
+-- SELECT round(count(player_id) * 1.0/ (select count(distinct player_id) from Activity),2) as fraction
+-- FROM Activity a
+-- WHERE event_date = (
+--     SELECT DATE_ADD(MIN(event_date), INTERVAL 1 DAY)
+--     FROM Activity b
+--     WHERE a.player_id = b.player_id
+-- );
+
+SELECT ROUND(COUNT(a1.player_id)/
+(SELECT COUNT(DISTINCT player_id) FROM Activity),2) AS fraction
+FROM Activity a1
+JOIN(
+    SELECT player_id, 
+    min(event_date) AS login_date 
+    FROM Activity
+    GROUP BY player_id
+)a2
+ON a1.player_id = a2.player_id
+AND DATEDIFF(a1.event_date,a2.login_date)=1;
