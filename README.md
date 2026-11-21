@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Developer-aadi-AI/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Developer-aadi-AI/DSA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
 | [1267-count-servers-that-communicate](https://github.com/Developer-aadi-AI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Developer-aadi-AI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Developer-aadi-AI/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Developer-aadi-AI/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Developer-aadi-AI/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
@@ -241,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Developer-aadi-AI/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
