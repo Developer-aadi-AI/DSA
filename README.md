@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Developer-aadi-AI/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Developer-aadi-AI/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Developer-aadi-AI/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1267-count-servers-that-communicate](https://github.com/Developer-aadi-AI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Developer-aadi-AI/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Developer-aadi-AI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Developer-aadi-AI/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Developer-aadi-AI/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Developer-aadi-AI/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2747-count-zero-request-servers](https://github.com/Developer-aadi-AI/DSA/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Developer-aadi-AI/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Developer-aadi-AI/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Developer-aadi-AI/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Developer-aadi-AI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3364-minimum-positive-sum-subarray) |
