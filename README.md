@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/Developer-aadi-AI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Developer-aadi-AI/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Developer-aadi-AI/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Developer-aadi-AI/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2747-count-zero-request-servers](https://github.com/Developer-aadi-AI/DSA/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Developer-aadi-AI/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -295,4 +298,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Developer-aadi-AI/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
