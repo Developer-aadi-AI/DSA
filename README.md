@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Developer-aadi-AI/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Developer-aadi-AI/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Developer-aadi-AI/DSA/tree/master/0704-binary-search) |
 | [1267-count-servers-that-communicate](https://github.com/Developer-aadi-AI/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Developer-aadi-AI/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Developer-aadi-AI/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Developer-aadi-AI/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Developer-aadi-AI/DSA/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Developer-aadi-AI/DSA/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/Developer-aadi-AI/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
