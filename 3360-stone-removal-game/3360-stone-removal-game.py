@@ -9,6 +9,7 @@ class Solution:
                     n -= i-1
             else:
                 return False
+        return False
 
         
         # f = 10
